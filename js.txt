@@ -1,1 +1,2 @@
 #This file for the JS functionalities
+#This is the second change to text the commit on github.
